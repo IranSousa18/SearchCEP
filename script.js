@@ -1,3 +1,4 @@
+// CEP de teste = 01310100
 // async permite usar await dentro da função
 // await faz o código esperar a resposta da API chegar
 
