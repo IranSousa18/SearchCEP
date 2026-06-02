@@ -1,2 +1,2 @@
 # SearchCEP
-Uma atividade proposta em sala de aula 
+Uma atividade proposta em sala de aula.
