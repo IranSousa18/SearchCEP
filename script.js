@@ -2,6 +2,9 @@
 // async permite usar await dentro da função
 // await faz o código esperar a resposta da API chegar
 
+document.getElementById("cep").addEventListener("input", function () {
+    this.value = this.value.replace(/\D/g, "");
+});
 
 document
     .getElementById("cep")
